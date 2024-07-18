@@ -1,0 +1,1 @@
+console.log("day 0 of mastering js!!")
